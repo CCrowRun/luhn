@@ -17,5 +17,4 @@ module Luhn
 
     num_list.sum % 10 == 0
   end
-  
 end
